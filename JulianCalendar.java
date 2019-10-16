@@ -53,10 +53,6 @@ public class JulianCalendar {
                 biggestNumber = MONTH_SIZES[i + 1];
             }
         }
-//		System.out.println(biggestNumber);
-        /**
-         * Complete the logic to display a Julian cal given the pre-populated arrays defined by the Class
-         */
 
         for (int i = 0; i < MONTH_NAMES.length; i ++) {
             for (int j = 0; i < biggestNumber; j ++) {
