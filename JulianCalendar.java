@@ -1,5 +1,4 @@
-package com.yazanalmatar.csc330.lab1;
-
+//  http://www.yazanalmatar.com
 import java.lang.*;
 /**
  * Generates a non-leap year perpetual Julian Calendar
